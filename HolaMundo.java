@@ -1,3 +1,5 @@
-public class HolaMundo
+public class HolaMundo;
 
-System.out.Print("Hola Mundo")
+System.out.print("Hola Mundo");
+  
+  
